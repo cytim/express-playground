@@ -1,0 +1,16 @@
+{
+  "name": "express-playground",
+  "version": "1.0.0",
+  "description": "The playground for Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"warn: no test specified\""
+  },
+  "author": "Tim Wong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.16.3",
+    "pino": "~5.6.2"
+  }
+}
