@@ -253,3 +253,7 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/vim,osx,node,linux,windows,intellij,notepadpp,visualstudiocode
 
+
+### Custom ###
+log/
+
